@@ -1,0 +1,26 @@
+Group 
+	structure Utils
+	signature UTILS
+	structure Commands
+	signature COMMANDS
+	structure Lexer
+	signature LEXER
+	structure Dialogs
+	signature DIALOGS
+	structure Locations
+	signature LOCATIONS
+	structure Main
+	signature MAIN
+is
+	utils-sig.sml
+	utils.sml
+	commands-sig.sml
+	commands.sml
+	lexer-sig.sml
+	lexer.sml
+	dialogs-sig.sml
+	dialogs.sml
+	locations-sig.sml
+	locations.sml
+	main-sig.sml
+	main.sml
